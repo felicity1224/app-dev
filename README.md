@@ -2,7 +2,7 @@
 My first repository
 
 # H1
-**My favorite series\movie**
+***My favorite series\movie***
 
 ## H2
 *The Loyal Pin*
